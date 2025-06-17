@@ -9,8 +9,8 @@ This is a **complete website package** for **Bluesky Social**, automatically gen
 
 - **App Name**: Bluesky Social
 - **Developer**: Bluesky PBLLC
-- **Template**: apple
-- **Generated**: 2025-06-17T08:34:53.074Z
+- **Template**: debug
+- **Generated**: 2025-06-17T08:35:18.322Z
 
 ## 🚀 Quick Deploy
 
